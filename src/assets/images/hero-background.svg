@@ -1,0 +1,66 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <pattern id="grain" width="90" height="90" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="15" r="0.8" fill="#d4e4df" opacity=".18"></circle>
+      <circle cx="48" cy="63" r="0.7" fill="#d4e4df" opacity=".14"></circle>
+      <circle cx="75" cy="28" r="0.6" fill="#d4e4df" opacity=".17"></circle>
+      <path d="M20 44l2 1m39-35l2 1m-8 66l2 1" stroke="#d4e4df" stroke-width=".6" opacity=".12"></path>
+    </pattern>
+    <g id="atom" fill="none" stroke="#91aaa4" stroke-width="2" opacity=".10">
+      <ellipse rx="70" ry="25"></ellipse>
+      <ellipse rx="70" ry="25" transform="rotate(60)"></ellipse>
+      <ellipse rx="70" ry="25" transform="rotate(120)"></ellipse>
+      <circle r="5" fill="#91aaa4" stroke="none"></circle>
+    </g>
+    <g id="pencil" fill="none" stroke="#91aaa4" stroke-width="2" opacity=".10" stroke-linejoin="round">
+      <path d="M0 0l100 12-18 12z"></path>
+      <path d="M0 0l82 24"></path>
+      <path d="M82 24l-5 8 5-8"></path>
+    </g>
+    <g id="book" fill="none" stroke="#91aaa4" stroke-width="2" opacity=".10" stroke-linejoin="round">
+      <path d="M0 0l45 12 0 52L0 52z"></path>
+      <path d="M45 12l45-12 0 52-45 12z"></path>
+      <path d="M12 17l23 6m-23 6l23 6m22-12l22-6m-22 18l22-6"></path>
+    </g>
+  </defs>
+
+  <rect width="1440" height="900" fill="#082a2e"></rect>
+  <rect width="1440" height="900" fill="url(#grain)"></rect>
+
+  <g transform="translate(1020 100) rotate(-12)">
+    <use href="#atom"></use>
+  </g>
+  <g transform="translate(1200 210) rotate(20)">
+    <use href="#pencil"></use>
+  </g>
+  <g transform="translate(1300 450) rotate(-14)">
+    <use href="#book"></use>
+  </g>
+  <g transform="translate(110 120) rotate(-30)">
+    <use href="#book"></use>
+  </g>
+  <g transform="translate(180 360) rotate(18)">
+    <use href="#pencil"></use>
+  </g>
+  <g transform="translate(260 650) rotate(-20)">
+    <use href="#atom"></use>
+  </g>
+  <g transform="translate(1120 740) rotate(14)">
+    <use href="#book"></use>
+  </g>
+  <g transform="translate(1350 780) rotate(-20)">
+    <use href="#atom"></use>
+  </g>
+
+  <g fill="none" stroke="#91aaa4" stroke-width="2" opacity=".07">
+    <path d="M0 260l160 60-80 70z"></path>
+    <path d="M0 260l80 130m-80-130l160 60"></path>
+    <path d="M1210 120l120 24-48 72z"></path>
+    <path d="M1210 120l72 96m-24-60l72-12"></path>
+    <circle cx="1360" cy="320" r="50"></circle>
+    <path d="M1325 320h70m-35-35v70"></path>
+    <path d="M40 800l100-20 20 65-100 20z"></path>
+    <path d="M60 820l60-12m-56 28l60-12"></path>
+  </g>
+</svg>
