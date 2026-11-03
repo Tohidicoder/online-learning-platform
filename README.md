@@ -1,16 +1,64 @@
-# React + Vite
+# 🎓 Learna – Online Learning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Final Project | React.js & Tailwind CSS
 
-Currently, two official plugins are available:
+Learna is a modern, responsive, and user-friendly online learning website designed to provide an engaging and smooth learning experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was developed as a Final Project to demonstrate frontend development skills using modern web technologies, responsive design, animations, and interactive user interfaces.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- Motion (Animations)
+- Lucide React (Icons)
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## ✨ Features
+
+- Fully responsive design for desktop, tablet, and mobile devices.
+- Modern, clean, and user-friendly interface.
+- Smooth animations and transitions using Motion.
+- Interactive hover effects.
+- Attractive hero sections.
+- Home page with modern layouts.
+- About page with engaging content.
+- Courses section for online learning.
+- Expert and instructor team section.
+- Contact page with FAQ accordion.
+- Reusable and well-organized React components.
+- Responsive navigation and footer.
+- Consistent colors, typography, and design elements.
+- Smooth user experience across different screen sizes.
+
+---
+
+## 🎯 Project Goals
+
+- Practice modern frontend development.
+- Improve React.js skills.
+- Build responsive websites using Tailwind CSS.
+- Create interactive user interfaces.
+- Work with animations and motion effects.
+- Improve component-based development skills.
+
+---
+
+## 👩‍💻 Developer
+
+**Faiza Tohidi**
+
+Frontend Web Developer
+
+**Technologies:** React.js | JavaScript | Tailwind CSS | HTML | CSS
+
+---
+
+⭐ Thank you for visiting my project!
