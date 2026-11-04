@@ -4,7 +4,7 @@ import { Check, ArrowUpRight } from "lucide-react";
 
 import pricingHero from "../assets/images/courses/17.webp";
 import PricingTwo from "./PricingTwo";
-import Career from "./career";
+
 // import Footer from "./Footer";
 
 // ==========================================
@@ -290,7 +290,6 @@ export default function Pricing() {
       </section>
       <PricingTwo />
       {/* <Footer /> */}
-      <Career />
     </main>
   );
 }
