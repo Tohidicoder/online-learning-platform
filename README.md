@@ -53,7 +53,7 @@ This project was developed as a Final Project to demonstrate frontend developmen
 
 ## 👩‍💻 Developer
 
-**Faiza Tohidi**
+**Faezeh Tohidi**
 
 Frontend Web Developer
 
